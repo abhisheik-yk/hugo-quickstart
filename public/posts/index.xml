@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dev Tips</title>
+    <link>http://devtips.org/posts/</link>
+    <description>Recent content in Posts on Dev Tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2023 13:43:26 +0100</lastBuildDate><atom:link href="http://devtips.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embracing Simplicity: The DRY Principle in Software Development</title>
+      <link>http://devtips.org/posts/my-second-post/</link>
+      <pubDate>Thu, 11 May 2023 13:43:26 +0100</pubDate>
+      
+      <guid>http://devtips.org/posts/my-second-post/</guid>
+      <description>The DRY Principle: Keeping Your Markdown Clean and Efficient In the world of software development, the DRY principle is a fundamental concept that promotes code simplicity, maintainability, and efficiency. But did you know that the DRY principle can also be applied to writing Markdown documents? By embracing the DRY principle within the CommonMark specification, we can keep our Markdown clean, organized, and easy to manage.
+What is the DRY Principle? The DRY principle, as its name suggests, emphasizes the importance of avoiding unnecessary repetition.</description>
+    </item>
+    
+    <item>
+      <title>Embracing Simplicity: The YAGNI Principle in Software Development</title>
+      <link>http://devtips.org/posts/my-first-post/</link>
+      <pubDate>Thu, 11 May 2023 12:59:06 +0100</pubDate>
+      
+      <guid>http://devtips.org/posts/my-first-post/</guid>
+      <description>YAGNI Principle: Keeping It Simple in Software Development Software development can sometimes feel like solving complex puzzles, but there&amp;rsquo;s a principle that can help make it easier: YAGNI! YAGNI stands for &amp;ldquo;You Ain&amp;rsquo;t Gonna Need It,&amp;rdquo; and it&amp;rsquo;s a valuable principle that even school students can understand.
+What is the YAGNI Principle? Imagine you&amp;rsquo;re building a sandcastle on the beach. You start with a simple plan to build a small castle with a few towers.</description>
+    </item>
+    
+  </channel>
+</rss>

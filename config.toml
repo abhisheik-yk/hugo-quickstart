@@ -1,0 +1,4 @@
+baseURL = 'http://devtips.org/'
+languageCode = 'en-us'
+title = 'Dev Tips'
+theme = 'ananke'
